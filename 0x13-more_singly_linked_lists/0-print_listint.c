@@ -8,6 +8,7 @@
  *
  * Return: the number of nodes
  *
+ * Description: singly linked list
  */
 size_t print_listint(const listint_t *h)
 {
